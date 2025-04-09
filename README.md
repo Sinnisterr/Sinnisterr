@@ -11,6 +11,7 @@
 🔍 Estou constantemente em busca de novos desafios, aprendizados e oportunidades para crescer como profissional.
 
 💬 Fique à vontade para se conectar, trocar ideias ou apenas bater um papo sobre tecnologia. Vamos evoluir juntos!
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
