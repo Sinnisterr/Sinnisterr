@@ -2,15 +2,15 @@
 
 **`Desenvolvedor Java Iniciante`**
 
-👋 Olá! Sou apaixonado por tecnologia e estou dando meus primeiros passos na programação com Java. 
+👋 Olá! Seja bem-vindo(a) ao meu perfil. Sou um entusiasta de tecnologia iniciando minha jornada na programação com Java, área pela qual sempre tive grande interesse.
 
-✨ Sou formado em Engenharia de Telecomunicações, tenho 46 anos e acumulo mais de 17 anos de experiência na área, embora nunca tenha atuado como desenvolvedor. No entanto, sempre tive um grande interesse por programação.
+🎓 Sou formado em Engenharia de Telecomunicações, tenho 46 anos e trago comigo mais de 17 anos de experiência profissional na área técnica. Embora ainda não tenha atuado como desenvolvedor, a curiosidade e a paixão por programação sempre estiveram presentes na minha trajetória.
 
-💡 Estou sempre em busca de aprender e me aprimorar, atualmente estou focado em JavaCore, JavaFX, Git, Github AndroidStudio e SpringBoot, e adorando cada momento! 
+🚀 Atualmente, estou focado em aprimorar minhas habilidades em Java Core, JavaFX, Git, GitHub, Android Studio e Spring Boot — e estou adorando cada etapa do processo de aprendizado!
 
-🌟 Sempre em busca de novos desafios e oportunidades para crescer.  
-💬 Vamos nos conectar e trocar ideias!
+🔍 Estou constantemente em busca de novos desafios, aprendizados e oportunidades para crescer como profissional.
 
+💬 Fique à vontade para se conectar, trocar ideias ou apenas bater um papo sobre tecnologia. Vamos evoluir juntos!
 ---
 
 ### 🤖 Linguagens e Tecnologias
