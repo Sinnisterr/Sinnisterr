@@ -27,8 +27,8 @@
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="Json" 
+    title="Json"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" 
